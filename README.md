@@ -1,1 +1,3 @@
-PortableMirror for Resonite
+PortableMirror Mod for Resonite
+
+Work in progress mod
