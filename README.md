@@ -8,8 +8,9 @@ Some of the features of this mod are possible to do without a mod if you prefer 
 1. FBT calibrator mirror: The FBT mirror will open when you open the full-body calibrator. so you can easily align your trackers
 
 2. Context menu: Allows you to spawn multiple mirrors from your context menu including a ceiling mirror 45-degree mirror a face mirror and a local light also customizing the settings resolution, scale, opacity, and Grabale for each mirror.
+![portmirrcontext copy](https://github.com/user-attachments/assets/7e1f8e09-9112-4364-af41-d4aa377466f7)
 
-3. Mod settings: The mod settings menu lets you deeply customize each mirror for your preference cameras or full mirrors and opacity shadows...
+4. Mod settings: The mod settings menu lets you deeply customize each mirror for your preference cameras or full mirrors and opacity shadows...
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
