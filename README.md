@@ -18,9 +18,9 @@ FBT calibrator mirror: The FBT mirror will open when you open the full-body cali
 
 ![06101-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/70067411-3d0e-414d-abc8-69ac0b450059)
 
-Context menu: Allows you to spawn multiple mirrors from your context menu including a ceiling mirror 45-degree mirror a face mirror and a local light also customizing the settings resolution, scale, opacity, and Grabale for each mirror.
+Context menu: you can spawn multiple mirrors from your context menu including a ceiling mirror 45-degree mirror a face mirror and a local light also customizing the settings resolution, scale, opacity, and Grabale for each mirror.
 
-![portmirrcontext copy](https://github.com/user-attachments/assets/7e1f8e09-9112-4364-af41-d4aa377466f7)
+![portmirrcontext copy](https://github.com/user-attachments/assets/9d654a80-33ea-43dc-ae9b-f0ce6294d533)
 
 Mod settings: The mod settings menu lets you deeply customize each mirror individually for your preference. Use the reset settings button in the context menu under more settings to update the mirror settings
 
