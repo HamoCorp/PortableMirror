@@ -14,12 +14,14 @@ Some of the features of this mod are possible to do without a mod if you prefer 
 4. Start the game and open mirrors from your context menu.
 
 ## Features:
-1. FBT calibrator mirror: The FBT mirror will open when you open the full-body calibrator. so you can easily align your trackers
+FBT calibrator mirror: The FBT mirror will open when you open the full-body calibrator. so you can easily align your trackers
+
 ![06101-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/70067411-3d0e-414d-abc8-69ac0b450059)
 
-2. Context menu: Allows you to spawn multiple mirrors from your context menu including a ceiling mirror 45-degree mirror a face mirror and a local light also customizing the settings resolution, scale, opacity, and Grabale for each mirror.
+Context menu: Allows you to spawn multiple mirrors from your context menu including a ceiling mirror 45-degree mirror a face mirror and a local light also customizing the settings resolution, scale, opacity, and Grabale for each mirror.
+
 ![portmirrcontext copy](https://github.com/user-attachments/assets/7e1f8e09-9112-4364-af41-d4aa377466f7)
 
-4. Mod settings: The mod settings menu lets you deeply customize each mirror for your preference cameras or full mirrors and opacity shadows...
+Mod settings: The mod settings menu lets you deeply customize each mirror for your preference cameras or full mirrors and opacity shadows...
 
 ![Screenshot 2024-07-17 011413](https://github.com/user-attachments/assets/266f50e9-3f04-4fd2-8ca9-a6619df16302)
