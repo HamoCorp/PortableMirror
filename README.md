@@ -14,7 +14,7 @@ Some of the features of this mod are possible to do without a mod if you prefer 
 4. Start the game and open mirrors from your context menu.
 
 ## Features:
-FBT calibrator mirror: The FBT mirror will open when you open the full-body calibrator. so you can easily align your trackers
+FBT calibrator mirror: The FBT mirror will open when you open the full-body calibrator. so you can easily align your trackers. (it can be attach or detached from view by changing pin setting)
 
 ![06101-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/70067411-3d0e-414d-abc8-69ac0b450059)
 
@@ -22,6 +22,14 @@ Context menu: Allows you to spawn multiple mirrors from your context menu includ
 
 ![portmirrcontext copy](https://github.com/user-attachments/assets/7e1f8e09-9112-4364-af41-d4aa377466f7)
 
-Mod settings: The mod settings menu lets you deeply customize each mirror for your preference cameras or full mirrors and opacity shadows...
+Mod settings: The mod settings menu lets you deeply customize each mirror individually for your preference. Use the reset settings button in the context menu under more settings to update the mirror settings
 
-![Screenshot 2024-07-17 011413](https://github.com/user-attachments/assets/266f50e9-3f04-4fd2-8ca9-a6619df16302)
+![Screenshot 2024-07-17 220228](https://github.com/user-attachments/assets/25a1ea3b-2cfb-4553-b138-8348c1a6ecd1)
+
+1. the first setting will enable the context menu. this will take effect after respawn.
+2. Activate the FBT mirror will spawn the FBT mirror when the calibrator is open.
+3. Change the default spawn position, rotation and scale of your mirrors.
+4. change brightness and opacity although it is recommended to keep opacity at 0 or strange stuff happens
+5. Set the mirror type for high quality or cameras, or disable shadows.
+6. change the rotation source. ```view``` will spawn the mirror in the direction you're looking whilst ```groundProjectedHead``` will spawn the mirror in front of you. This will also effect the pin to head option.
+7. for some of the mirrors you can also change the default name you see on the context menu.
