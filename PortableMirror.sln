@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortableMirror", "PortableMirror\PortableMirror.csproj", "{BE071E38-42D1-47E5-BF97-3542B62F4BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE071E38-42D1-47E5-BF97-3542B62F4BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE071E38-42D1-47E5-BF97-3542B62F4BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE071E38-42D1-47E5-BF97-3542B62F4BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE071E38-42D1-47E5-BF97-3542B62F4BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80A5E45E-094F-4D7C-8D65-7366F870A366}
+	EndGlobalSection
+EndGlobal
