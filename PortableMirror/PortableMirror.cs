@@ -10,7 +10,7 @@ namespace PortableMirror {
 
         public override string Name => "PortableMirror";
         public override string Author => "HamoCorp | Updated by NalaTheThird/Zeia Nala";
-        public override string Version => "1.0.1";
+        public override string Version => "1.0.2";
         public override string Link => "https://github.com/HamoCorp/PortableMirror";
 
         private static ModConfiguration Config;
